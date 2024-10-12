@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Sebastian Rodriguez
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/))]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)
+
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebaser99@gmail.com)](mailto:sebaser99@gmail.com)
 
 ---
@@ -26,10 +27,8 @@ Lenguajes:
   - HTML, CSS (Grid, Flexbox)
 
 Frameworks y Librerías:
-  - Django
-  - Flask
+
   - Express
-  - Pydantic
   - gRPC
 
 Bases de datos:
@@ -37,8 +36,3 @@ Bases de datos:
   - MySQL
   - MongoDB
 
-DevOps:
-  - AWS (EC2, S3)
-  - Docker
-  - Nginx
-  - CI/CD (GitHub Actions, CircleCI)
