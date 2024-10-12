@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sebastian Rodriguez
+#  🐙 ¡Hola! Soy Sebastian Rodriguez
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)
 
