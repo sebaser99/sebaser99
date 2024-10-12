@@ -80,8 +80,6 @@ Aunque no los uso diariamente, tengo experiencia con los siguientes lenguajes y 
 
 Si quieres saber más sobre mis proyectos o colaborar en uno, no dudes en contactarme.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)
-
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebaser99@gmail.com)](mailto:sebaser99@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebaser99@gmail.com)](mailto:sebaser99@gmail.com)
 
 
