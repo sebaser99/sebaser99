@@ -10,7 +10,6 @@
 
 Soy un desarollador web con 2 años de experiencia, con conocimientos en programación orientada a objetos, Arquitectura Hexagonal y clean code.
 He realizado proyectos fronted en **JAVA SCRIPT** y frameworks como **REACT JS**, **ANGULAR JS** y backend en **NODE JS**. Cuento con experiencia en bases de datos **MY SQL**, **POSTGRESQL** y **MONGO DB**, control de versiones con GIT y GIT HUB.
-Logros importantes en el desarrollo de una pasarela de pagos con REACT JS para Pay by Split y un E-commerce con plataforma de gestión llamado Onemall con ANGULAR JS. Ambos con backend en NODE JS.
 Manejo básico de inglés con fortaleza en reading.
 Disponibilidad de trabajo remoto y por proyectos.
 
@@ -51,6 +50,10 @@ Aunque no los uso diariamente, tengo experiencia con los siguientes lenguajes y 
   - MongoDB
 
 
+---
+### 🥇 Logros
+
+Logros importantes en el desarrollo de una pasarela de pagos con REACT JS para Pay by Split y un E-commerce con plataforma de gestión llamado Onemall con ANGULAR JS. Ambos con backend en NODE JS.
 ---
 
 ## 📊 Mis estadísticas
