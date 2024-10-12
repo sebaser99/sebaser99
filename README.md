@@ -51,9 +51,13 @@ Aunque no los uso diariamente, tengo experiencia con los siguientes lenguajes y 
 
 
 ---
+
+
 ### 🥇 Logros
 
 Logros importantes en el desarrollo de una pasarela de pagos con REACT JS para Pay by Split y un E-commerce con plataforma de gestión llamado Onemall con ANGULAR JS. Ambos con backend en NODE JS.
+
+
 ---
 
 ## 📊 Mis estadísticas
