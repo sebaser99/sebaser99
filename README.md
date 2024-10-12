@@ -55,15 +55,23 @@ Aunque no los uso diariamente, tengo experiencia con los siguientes lenguajes y 
 
 ### 🥇 Logros
 
-  ### Pasarela de Pago:
-  *pasarela de pagos con REACT JS para Pay by Split 
-  ###E-commerce
-  *E-commerce con plataforma de gestión llamado Onemall
+ # Pasarela de Pago y E-commerce
 
-  **Fronted 
-      --Angular
-  **Backend 
-     --Node js
+### Pasarela de Pago: Pay by Split
+*Implementación de una pasarela de pago con **React.js**, utilizando un flujo de pagos dividido.*
+
+#### Tecnologías:
+- **Frontend**: React.js
+- **Backend**: Node.js
+
+---
+
+### E-commerce: Onemall
+*Plataforma de gestión de E-commerce, **Onemall**, para administrar ventas, productos y usuarios.*
+
+#### Tecnologías:
+- **Frontend**: Angular
+- **Backend**: Node.js
 
 
 ---
