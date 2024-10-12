@@ -16,23 +16,59 @@ Disponibilidad de trabajo remoto y por proyectos.
 
 
 ---
+# 👋 ¡Hola! Soy Alex Sebastian Rodriguez Romero
 
-## 🔧 Tecnologías y Herramientas
+Soy un desarrollador apasionado con experiencia en el desarrollo de aplicaciones full stack, manejando con excelencia tecnologías de frontend y backend. Aquí puedes conocer más sobre las herramientas que domino y los lenguajes que estoy explorando.
 
-```yaml
-Lenguajes:
-  - Python
-  - JavaScript (Node.js, React, Angular)
-  - TypeScript
-  - HTML, CSS (Grid, Flexbox)
+---
 
-Frameworks y Librerías:
+## 🚀 Tecnologías que manejo con excelencia
 
-  - Express
-  - gRPC
+### Lenguajes y librerías principales:
+- **JavaScript**: Mi lenguaje favorito para el desarrollo web.
+  - **React**: Dominio en la creación de interfaces interactivas y eficientes.
+  - **Angular**: Especialista en aplicaciones frontend complejas y estructuradas.
 
-Bases de datos:
+### Frameworks backend:
+- **Node.js**: Potente framework con el que construyo servicios backend eficientes y escalables.
+
+---
+
+## 🔧 Conocimientos adicionales
+
+Aunque no los uso diariamente, tengo experiencia con los siguientes lenguajes y frameworks, y sigo mejorando mis habilidades en estas áreas:
+
+### Lenguajes:
+- **Java**: Conocimientos sólidos en el desarrollo de aplicaciones orientadas a objetos.
+- **C#**: Familiarizado con su uso en el ecosistema de .NET.
+- **Python**: Explorando sus capacidades para el desarrollo backend y scripting.
+
+### Frameworks:
+- **Spring Boot**: Aplicaciones Java con arquitectura empresarial.
+- **Django**: Backend en Python para crear APIs robustas.
+- **.NET Core**: Desarrollo de aplicaciones backend escalables en C#.
+
+  
+### Bases de datos:
   - PostgreSQL
   - MySQL
   - MongoDB
+
+
+---
+
+## 📊 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebaser99&show_icons=true&theme=radical)
+
+---
+
+## 📫 ¡Hablemos!
+
+Si quieres saber más sobre mis proyectos o colaborar en uno, no dudes en contactarme.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)](https://www.linkedin.com/in/alex-sebastian-rodriguez-romero-5226a223a/)
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebaser99@gmail.com)](mailto:sebaser99@gmail.com)
+
 
