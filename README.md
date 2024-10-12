@@ -16,13 +16,9 @@ Disponibilidad de trabajo remoto y por proyectos.
 
 
 ---
-# 👋 ¡Hola! Soy Alex Sebastian Rodriguez Romero
 
-Soy un desarrollador apasionado con experiencia en el desarrollo de aplicaciones full stack, manejando con excelencia tecnologías de frontend y backend. Aquí puedes conocer más sobre las herramientas que domino y los lenguajes que estoy explorando.
 
----
-
-## 🚀 Tecnologías que manejo con excelencia
+## 🛠️ Tecnologías que manejo con excelencia
 
 ### Lenguajes y librerías principales:
 - **JavaScript**: Mi lenguaje favorito para el desarrollo web.
