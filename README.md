@@ -6,7 +6,7 @@
 ## 🚀 Sobre mí
 
 Soy un desarollador web con 2 años de experiencia, con conocimientos en programación orientada a objetos, Arquitectura Hexagonal y clean code.
-He realizado proyectos fronted en **JAVA SCRIPT** y frameworks como **REACT JS**, **ANGULAR JS** y backend en **NODE JS**. Cuento con experiencia en bases de datos **MY SQL**, **POSTGRESQL** y **MONGO DB**, control de versiones con GIT y GIT HUB.
+He realizado proyectos fronted en **JAVASCRIPT** y frameworks como **REACT JS**, **ANGULAR JS** y backend en **NODE JS**. Cuento con experiencia en bases de datos **MY SQL**, **POSTGRESQL** y **MONGO DB**, control de versiones con GIT y GIT HUB.
 Manejo básico de inglés con fortaleza en reading.
 Disponibilidad de trabajo remoto y por proyectos.
 
